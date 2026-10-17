@@ -4,8 +4,6 @@ Proyek ini adalah sistem berbasis Machine Learning yang membantu petani di Sukom
 
 ## ✨ Fitur Utama
 - **Prediksi Cerdas:** Menggunakan algoritma Random Forest untuk menganalisis curah hujan, suhu, dan kelembapan.
-- **Tips Perawatan Otomatis:** Memberikan saran perawatan harian berdasarkan kondisi cuaca input.
-- **Visualisasi Data:** Analisis tren curah hujan bulanan untuk perencanaan jangka panjang.
 - **Antarmuka Web:** Aplikasi web interaktif yang mudah digunakan oleh petani.
 
 ## 🛠️ Teknologi yang Digunakan
